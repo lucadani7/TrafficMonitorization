@@ -6,8 +6,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class TrafficMonitorizationApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(TrafficMonitorizationApplication.class, args);
-	}
-
+    public static void main(String[] args) {
+        SpringApplication.run(TrafficMonitorizationApplication.class, args);
+    }
 }
